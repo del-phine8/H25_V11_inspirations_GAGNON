@@ -4,8 +4,10 @@
 
 ![photo](media/carte_resonnacee.jpg)
 
+
 ### Lieu de mise en exposition : 
 Local C-1712 Collège Montmorency
+
 
 ### Type d'exposition :
 Exposition temporaire
@@ -36,7 +38,7 @@ Le titre du dispositif est C0n-Du8
 <td><img src=""></td>
 </tr>
 <tr>
-<td>Khaly Tia Sing</td>
+<td>Ian Corbin</td>
 <td>Isaac Fafard</td>
 <td>Delphine Grenier</td>
 <td>Sitmontemna Yi</td>
