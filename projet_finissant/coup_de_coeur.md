@@ -48,10 +48,10 @@ Le titre du dispositif est Internature
 ![photo](media/cartel.jpg)
 
 ### Type d'installation : 
-Internature est 
+Internature est une installation intéractive.
 
 ### Mise en espace :
- 
+![photo]( 
 
 
 ### Composition et technique :
