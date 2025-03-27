@@ -27,7 +27,22 @@ Le titre du dispositif est Internature
 ![photo](media/Titre_dispo.jpg)
 
 ### Nom des artistes : 
-Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmontemna Yi, Kenza El Harrif
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/khalytia_sing.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/isaac_fafard.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/delphine-img-profil.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/sit_ver_mauve.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/photo_kenza_400x400.png"></td>
+</tr>
+<tr>
+<td>Khaly Tia Sing</td>
+<td>Isaac Fafard</td>
+<td>Delphine Grenier</td>
+<td>Sitmontemna Yi</td>
+<td>Kenza El Harrif</td>
+</tr>
+</table>
 
 ### Description du dispositif : 
 ![photo](media/cartel.jpg)
