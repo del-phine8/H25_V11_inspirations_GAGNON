@@ -1,9 +1,9 @@
 # Visite des projets des finissants
  
-### Le nom de l'exposition visité:
+### Nom de l'exposition:
 
  
-### Lieu : 
+### Lieu de mise en exposition : 
 
 
 
