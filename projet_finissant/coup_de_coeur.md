@@ -1,7 +1,7 @@
 # Visite des projets des finissants
  
 ### Nom de l'exposition:
-
+![photo]()
 ### Lieu de mise en exposition : 
 
 
