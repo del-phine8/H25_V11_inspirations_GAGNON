@@ -1,7 +1,7 @@
 # Visite des projets des finissants
  
 ### Nom de l'exposition:
-![photo](media/carte_resonnancee)
+![photo](media/carte_resonnacee.jpg)
 ### Lieu de mise en exposition : 
 
 
