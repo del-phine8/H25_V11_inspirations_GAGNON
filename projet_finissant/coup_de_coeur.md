@@ -23,8 +23,9 @@ Vendredi: De 12H à 16H
 
 
 ### Titre du dispositif choisi : 
-Internature
- 
+Le titre du dispositif est Internature
+![photo](media/Titre_dispo.jpg)
+
 ### Nom des artistes : 
 Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmontemna Yi, Kenza El Harrif
 
