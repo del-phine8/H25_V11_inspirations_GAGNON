@@ -24,7 +24,7 @@ Vendredi: De 12H à 16H
 
 ### Titre du dispositif choisi : 
 Le titre du dispositif est C0n-Du8
-![photo]()
+![photo](media/titre_c0ndu8.png)
 
 ### Nom des artistes : 
 <table align="center">
