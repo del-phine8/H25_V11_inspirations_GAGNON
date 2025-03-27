@@ -23,10 +23,10 @@ Vendredi: De 12H à 16H
 
 
 ### Titre du dispositif choisi : 
-
+Internature
  
 ### Nom des artistes : 
-Dominic Yale, William Beauvais, Anton Nikulin
+Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmontemna Yi, Kenza El Harrif
 
 ### Description du dispositif : 
 
