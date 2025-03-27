@@ -23,17 +23,17 @@ Vendredi: De 12H à 16H
 
 
 ### Titre du dispositif choisi : 
-Le titre du dispositif est Internature
-![photo](media/Titre_dispo.jpg)
+Le titre du dispositif est C0n-Du8
+![photo]()
 
 ### Nom des artistes : 
 <table align="center">
 <tr>
-<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/khalytia_sing.jpg"></td>
-<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/isaac_fafard.jpg"></td>
-<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/delphine-img-profil.jpg"></td>
-<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/sit_ver_mauve.jpg"></td>
-<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/photo_kenza_400x400.png"></td>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
 </tr>
 <tr>
 <td>Khaly Tia Sing</td>
