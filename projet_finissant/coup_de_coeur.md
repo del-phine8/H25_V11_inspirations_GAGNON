@@ -29,10 +29,10 @@ Internature
 Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmontemna Yi, Kenza El Harrif
 
 ### Description du dispositif : 
-
+![photo](media/cartel.jpg)
 
 ### Type d'installation : 
-
+Internature est 
 
 ### Mise en espace :
  
