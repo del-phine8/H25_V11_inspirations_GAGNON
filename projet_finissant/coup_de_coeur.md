@@ -2,7 +2,6 @@
  
 ### Nom de l'exposition:
 
- 
 ### Lieu de mise en exposition : 
 
 
