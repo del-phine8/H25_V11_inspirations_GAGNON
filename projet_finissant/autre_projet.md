@@ -31,8 +31,8 @@
 <td><img src=""></td>
 </tr>
 <tr>
-<td>Ian Corbin</td>
-<td>Alexandre Gervais</td>
+<td>Audrey</td>
+<td>Camilia</td>
 <td>Jeremy Roy-Coté</td>
 <td>Keven Malric</td>
 <td>Samuel Desmeubles-Voyer</td>
