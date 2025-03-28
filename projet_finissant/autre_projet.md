@@ -1,6 +1,8 @@
 ## Orde des projets
 
-### 1. Con-Du8
+## 1. Con-Du8
+
+![photo](media/titre_c0ndu8.png)
 
 #### Équipe : 
 <table align="center">
@@ -21,7 +23,9 @@
 </table>
 
 
-### 2. Luminatura
+## 2. Luminatura
+
+![photo](media/luminatura_titre.png)
 
 #### Équipe :
 <table align="center">
@@ -42,7 +46,9 @@
 </table>
 
 
-### 3. Internature
+## 3. Internature
+
+![photo](media/thumbnail.jpg)
 
 #### Équipe :
 
@@ -64,7 +70,9 @@
 </table>
 
 
-### 4. Prismatica
+## 4. Prismatica
+
+![photo](media/prismatica_logo.png)
 
 #### Équipe :
 
@@ -82,6 +90,70 @@
 </table>
 
 
-5. Arcadia
-6. Etheria
-7. Fuga
+## 5. Arcadia
+
+![photo](media/menu_principal.png)
+
+#### Équipe :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/dominic_yale.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/william_beauvais.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/anton_nikulin.jfif"></td>
+</tr>
+<tr>
+<td>Dominic Yale</td>
+<td>Alexandre Gervais</td>
+<td>Anton Nikulin</td>
+</tr>
+</table>
+
+
+
+## 6. Etheria
+
+![photo](media/etheria_thumbnail.jpg)
+
+#### Équipe :
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/joshua_gonzalez-barrera.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/victor_gileau.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/michael_un_dupre.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/pierre-luc_proulx.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/maik_hamel.jpg"></td>
+</tr>
+<tr>
+<td>Joshua Gonzalez-Barrera</td>
+<td>Victor Gileau</td>
+<td>Michael Un Dupré</td>
+<td>Pierre-Luc Proulx</td>
+<td>Maik Hamel</td>
+</tr>
+</table>
+
+
+
+## 7. Fuga
+
+![photo](media/fuga_thumbnail.jpg)
+
+#### Équipe :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/matis.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/tristan.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/daniel.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/abdel.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/yavuz.png"></td>
+</tr>
+<tr>
+<td>Matis</td>
+<td>Tristan</td>
+<td>Daniel</td>
+<td>Abdel</td>
+<td>Yavuz</td>
+</tr>
+</table>
