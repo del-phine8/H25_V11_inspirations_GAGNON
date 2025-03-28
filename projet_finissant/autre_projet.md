@@ -24,8 +24,8 @@
 
 <table align="center">
 <tr>
-<td><img src=""></td>
-<td><img src=""></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/audrey.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/camilia.jpg"></td>
 <td><img src=""></td>
 <td><img src=""></td>
 <td><img src=""></td>
