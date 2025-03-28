@@ -155,6 +155,22 @@ C'était tres intéressant de voir les plantes et fleurs grandir au fur et a mes
 
 #### Installation finale :
 
+![photo](media/installation_pris.jpg)
+
+
+#### Schéma :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/storyboard.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/maquette_4_pris.jpg"></td>
+</tr>
+</table>
+
+#### Commentaire :
+
+Une belle expérience de pouvoir voir son dessin a l'écran avec un trait de crayon différent. Le son était aussi agréable et rajoutait plus d'ambiance et d'intéraction.
+
 # 5. Arcadia
 
 ![photo](media/menu_principal.png)
