@@ -86,6 +86,8 @@ Cette installation était parfaite pour dépenser son énergie. C'était simple 
 #### Commentaire :
 
 Les couleurs étaient très jolies et le mélange avec le son lorsqu'on promène nos doigts sur les plaques en acier apportait vraiment une expérience relaxante. De plus, le fait que les fleurs étaient présente physiquement donnait un bel effet de superposition et comme si les lumières coulaient réellement de celles-ci.
+
+
 # 3. Internature
 
 ![photo](media/thumbnail.jpg)
@@ -109,6 +111,26 @@ Les couleurs étaient très jolies et le mélange avec le son lorsqu'on promène
 </tr>
 </table>
 
+#### Installation finale :
+
+![photo](media/installation_finale_inter.jpg)
+
+#### Schéma :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/maquette-02_inter.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/maquette-03_inter.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/maquette-06_inter.jpg"></td>
+</tr>
+</table>
+
+( Les images de l'installation finale et du schéma proviennent du Github du projet Internature )
+
+#### Commentaire :
+
+#### Cours utiles :
+
 
 # 4. Prismatica
 
@@ -129,6 +151,7 @@ Les couleurs étaient très jolies et le mélange avec le son lorsqu'on promène
 </tr>
 </table>
 
+#### Installation finale :
 
 # 5. Arcadia
 
