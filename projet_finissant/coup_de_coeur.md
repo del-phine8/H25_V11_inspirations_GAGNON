@@ -58,7 +58,10 @@ C0n-Du8 est une installation intéractive. Le vélo permet de faire avancer le p
 
 ### Composition et technique :
 
-![photo](media/
+![photo](media/installation.jpg)
+![photo](media/ordinateur.jpg)
+![photo](media/projecteur.jpg)
+![photo](media/speaker.jpg)
 
 
  
