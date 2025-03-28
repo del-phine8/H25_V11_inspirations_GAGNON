@@ -1,6 +1,6 @@
 ## Orde des projets
 
-## 1. Con-Du8
+# 1. Con-Du8
 
 ![photo](media/titre_c0ndu8.png)
 
@@ -22,8 +22,30 @@
 </tr>
 </table>
 
+#### Installation finale :
 
-## 2. Luminatura
+![photo](media/installation_con_du8.webp)
+
+#### Schéma :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/sceranimage_01_cond.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/sceranimage_02_cond.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/plantation_cond.webp"></td>
+</tr>
+</table>
+
+( Les images de l'installation finale et du schéma proviennent du Github du projet Con-Du8 )
+
+#### Commentaire :
+
+Cette installation était parfaite pour dépenser son énergie. C'était simple à utiliser et l'ajout du ventilateur était une très bonne idée pour amplifier l'immersion.
+
+#### Liste des cours utile :
+
+
+# 2. Luminatura
 
 ![photo](media/luminatura_titre.png)
 
@@ -45,8 +67,26 @@
 </tr>
 </table>
 
+#### Installation finale :
 
-## 3. Internature
+![photo](media/installation_lumi.jpeg)
+
+#### Schéma :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/searimage3_lumi.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/scearimage_lumi.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/scearimage2_lumi.jpg"></td>
+</tr>
+</table>
+
+( Les images de l'installation finale et du schéma proviennent du Github du projet Luminatura )
+
+#### Commentaire :
+
+Les couleurs étaient très jolies et le mélange avec le son lorsqu'on promène nos doigts sur les plaques en acier apportait vraiment une expérience relaxante. De plus, le fait que les fleurs étaient présente physiquement donnait un bel effet de superposition et comme si les lumières coulaient réellement de celles-ci.
+# 3. Internature
 
 ![photo](media/thumbnail.jpg)
 
@@ -70,7 +110,7 @@
 </table>
 
 
-## 4. Prismatica
+# 4. Prismatica
 
 ![photo](media/prismatica_logo.png)
 
@@ -90,7 +130,7 @@
 </table>
 
 
-## 5. Arcadia
+# 5. Arcadia
 
 ![photo](media/menu_principal.png)
 
@@ -111,7 +151,7 @@
 
 
 
-## 6. Etheria
+# 6. Etheria
 
 ![photo](media/etheria_thumbnail.jpg)
 
@@ -135,7 +175,7 @@
 
 
 
-## 7. Fuga
+# 7. Fuga
 
 ![photo](media/fuga_thumbnail.jpg)
 
