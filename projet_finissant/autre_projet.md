@@ -129,6 +129,8 @@ Les couleurs étaient très jolies et le mélange avec le son lorsqu'on promène
 
 #### Commentaire :
 
+C'était tres intéressant de voir les plantes et fleurs grandir au fur et a mesure qu'on tournait la boule au milieux du tunel. C'était également agréable de pouvoir les faire bouger en passant sa main sur le tissus.
+
 #### Cours utiles :
 
 
