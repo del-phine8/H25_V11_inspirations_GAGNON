@@ -31,18 +31,18 @@ Le titre du dispositif est C0n-Du8
 ### Nom des artistes : 
 <table align="center">
 <tr>
-<td><img src=""></td>
-<td><img src=""></td>
-<td><img src=""></td>
-<td><img src=""></td>
-<td><img src=""></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/ian_corbin.webp"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/alexandre_gervais.webp"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/jeremy_roy-cote.webp"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/keven_malric.webp"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/samuel_desmeules-voyer.webp"></td>
 </tr>
 <tr>
 <td>Ian Corbin</td>
-<td>Isaac Fafard</td>
-<td>Delphine Grenier</td>
-<td>Sitmontemna Yi</td>
-<td>Kenza El Harrif</td>
+<td>Alexandre Gervais</td>
+<td>Jeremy Roy-Coté</td>
+<td>Keven Malric</td>
+<td>Samuel Desmeubles-Voyer</td>
 </tr>
 </table>
 
