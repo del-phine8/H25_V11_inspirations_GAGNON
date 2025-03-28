@@ -167,6 +167,8 @@ C'était tres intéressant de voir les plantes et fleurs grandir au fur et a mes
 </tr>
 </table>
 
+( Les images de l'installation finale et du schéma proviennent du Github du projet Prismatica )
+
 #### Commentaire :
 
 Une belle expérience de pouvoir voir son dessin a l'écran avec un trait de crayon différent. Le son était aussi agréable et rajoutait plus d'ambiance et d'intéraction.
@@ -190,7 +192,22 @@ Une belle expérience de pouvoir voir son dessin a l'écran avec un trait de cra
 </tr>
 </table>
 
+#### Installation finale :
 
+![photo](media/cabinet_studio.jpg)
+
+#### Schéma :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/schema_arcadia.jfif"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/point1.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/rubisdebut.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/ennemi.png"></td>
+</tr>
+</table>
+
+( Les images de l'installation finale et du schéma proviennent du Github du projet Arcadia )
 
 # 6. Etheria
 
