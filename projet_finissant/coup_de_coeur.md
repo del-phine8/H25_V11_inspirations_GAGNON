@@ -64,7 +64,7 @@ C0n-Du8 est une installation intéractive. Le vélo permet de faire avancer le p
  
 ### Ce qui vous a plu, vous a donné des idées?
 
-
+J'ai beaucoup aimé le fait que c'était une interraction plus physique. De plus, le fait que le vélo est aussi dans le jeu, ça rajoute vraiment un bon effet d'immersion. On a vraiment l'impression d'être dans le jeu et de courser contre les autres.
  
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	
 
