@@ -74,7 +74,9 @@ Projecteur
 
 Haut-parleur
 
-![photo]
+![photo](media/Diffusion_Kinect.webp)
+
+Kinect (Cette photo provient du Github de l'équipe de C0n-Du8)
 
 
  
