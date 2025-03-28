@@ -49,11 +49,12 @@ Le titre du dispositif est C0n-Du8
 ### Description du dispositif : 
 ![photo](media/cartel.jpg)
 
+C0n-Du8 est une installation intéractive. Le vélo permet de faire avancer le personnage à l'écran.
 ### Type d'installation : 
 Internature est une installation intéractive.
 
 ### Mise en espace :
-![photo]( 
+![photo](media/velo_ecran.jfif) 
 
 
 ### Composition et technique :
