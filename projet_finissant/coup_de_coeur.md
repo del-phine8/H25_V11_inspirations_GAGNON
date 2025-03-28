@@ -24,11 +24,12 @@ Vendredi: De 12H à 16H
 
 
 
-### Titre du dispositif choisi : 
+<h2>Titre du dispositif choisi :</h2> 
 Le titre du dispositif est C0n-Du8
+
 ![photo](media/titre_c0ndu8.png)
 
-### Nom des artistes : 
+### Équipe : 
 <table align="center">
 <tr>
 <td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/ian_corbin.webp"></td>
@@ -49,9 +50,8 @@ Le titre du dispositif est C0n-Du8
 ### Description du dispositif : 
 ![photo](media/velo_ecran.jfif)
 
-C0n-Du8 est une installation intéractive. Le vélo permet de faire avancer le personnage à l'écran. Le but étant de gagner la course d'endurance.
 ### Type d'installation : 
-Internature est une installation intéractive.
+C0n-Du8 est une installation intéractive. Le vélo permet de faire avancer le personnage à l'écran. Le but étant de gagner la course d'endurance.
 
 ### Mise en espace :
 
