@@ -248,6 +248,8 @@ Tres belle ambiance de jeu. Les graphique etaient vraiment jolie et le parcour e
 </tr>
 </table>
 
+( Les images de l'installation finale et du schéma proviennent du Github du projet Etheria )
+
 #### Commentaire :
 Juste un peu confuse sur le role des personnages dans le jeu mais sinon le principe de "Tower defense" etait bien amusant et la maniere dont on controllait les personnages etait aussi tres creative.
 
@@ -274,3 +276,22 @@ Juste un peu confuse sur le role des personnages dans le jeu mais sinon le princ
 <td>Yavuz</td>
 </tr>
 </table>
+
+
+#### Installation finale :
+
+![photo](media/haut.jpg)
+
+#### Schema :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/scenarimage-4.jpg"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/plantation-side.png"></td>
+</tr>
+</table>
+
+( Les images de l'installation finale et du schéma proviennent du Github du projet Fuga )
+
+#### Commentaire :
+Joli visuellement mais l'experience etait tres rapie.
