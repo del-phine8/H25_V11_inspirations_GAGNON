@@ -209,6 +209,10 @@ Une belle expérience de pouvoir voir son dessin a l'écran avec un trait de cra
 
 ( Les images de l'installation finale et du schéma proviennent du Github du projet Arcadia )
 
+
+#### Commentaire :
+Tres belle ambiance de jeu. Les graphique etaient vraiment jolie et le parcour etait une bonne idee. L'emplacement des parchemin n'etait pas trop evidente ( ce qui est une bonne chose ) et le fait de devoir comprendre qu'il y avait un double saut etait aussi tres bien penser ( montrer plutot que de dire ).
+
 # 6. Etheria
 
 ![photo](media/etheria_thumbnail.jpg)
@@ -231,6 +235,21 @@ Une belle expérience de pouvoir voir son dessin a l'écran avec un trait de cra
 </tr>
 </table>
 
+#### Installation finale : 
+
+![photo](media/photo_etheria_diffusion_02.png)
+
+#### Schema :
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/scenarimagev2_01_eth.png"></td>
+<td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/projet_finissant/media/scenarimagev2_02.png"></td>
+</tr>
+</table>
+
+#### Commentaire :
+Juste un peu confuse sur le role des personnages dans le jeu mais sinon le principe de "Tower defense" etait bien amusant et la maniere dont on controllait les personnages etait aussi tres creative.
 
 
 # 7. Fuga
