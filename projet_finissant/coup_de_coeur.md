@@ -86,5 +86,6 @@ J'ai beaucoup aimé le fait que c'était une interraction plus physique. De plus
  
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement	
 
+J'aime beaucoup l'idee d'avoir physiquement l'objet qui apparait dans le jeu ou a l'ecran. Personnelement le seul aspect que j'aurais changer c'est de mettre peut etre des obstacles ou des choses a ramasser sur la route ( dans le cas du velo ) peut etre plus d'interaction a l'ecran qui donnerais un autre but que de seulement gagner.
 
  
