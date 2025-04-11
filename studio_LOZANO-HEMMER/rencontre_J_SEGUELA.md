@@ -11,6 +11,6 @@ Lozano hammer est un artiste mexicain né en 1967. La particularté la plus impo
 
 ### Sphere Packing: Bach
 
-
+![photo](media/sphere.jpg)
 
 Cette oeuvre est une sphère en bois et en aluminium, incorporant de 1 128 haut-parleurs, chacun jouant une composition différente de Johann Sebastian Bach. Au début, le son commence doucement et tranquillement tout les haut-parleurs finissent par jouer en même temps. Chaque haut-parleur est doté d'une petite lumière indiquant lesquels fonctionnent. De temps en temps, durant la durée de l'oeuvre, les haut-parleur cèdent la place à une pièce en particulier. L'avoir expérimenté en 2018 au Musée d'Art Contemporain de Montréal, malgré tout les sons qui jouent en simultané, l'oeuvre est très agréable à vivre et n'est pas dutout désagréable contrairement à ce que certains pourraient croire.
