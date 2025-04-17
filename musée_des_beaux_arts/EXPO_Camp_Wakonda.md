@@ -1,3 +1,3 @@
-# Camp Wakonda
+# Art Contemporain
 
 ![photo](media/cartel.jpg)
