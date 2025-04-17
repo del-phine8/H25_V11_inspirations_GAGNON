@@ -1,3 +1,3 @@
 # Camp Wakonda
 
-![bougie]()
+![photo](media/cartel.jpg)
