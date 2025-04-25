@@ -19,13 +19,12 @@ L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur l
   <tr>
     <td></td>
     <td></td>
-    <td><img src=></td>
+    <td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/MBAM/media/vue_cote_oeuvre.jpg"></td>
   </tr>
-
+</table>
 ![photo](media/vue_ensemble_oeuvre.jpg)
 
 
-![photo](media/vue_cote_oeuvre.jpg)
 <br>
 <br>
 <br>
