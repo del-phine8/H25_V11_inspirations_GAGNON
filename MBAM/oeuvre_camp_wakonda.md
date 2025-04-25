@@ -26,6 +26,6 @@ L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur l
 <br>
 <br>
 <br>
-### 3- Personnage projeté sur des petites toiles blamches
+### 3- Personnage projeté sur des petites toiles blanches
 ![photo](media/homme_hache.jpg)
-![photo](media/maison_bois_gauche.jpg)
+![photo](media/homme_bougie.jpg)
