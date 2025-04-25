@@ -15,7 +15,16 @@ L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur l
 <br>
 <br>
 ### 1- Vue d'ensemble de l'oeuvre
+<table align="center">
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src=></td>
+  </tr>
+
 ![photo](media/vue_ensemble_oeuvre.jpg)
+
+
 ![photo](media/vue_cote_oeuvre.jpg)
 <br>
 <br>
