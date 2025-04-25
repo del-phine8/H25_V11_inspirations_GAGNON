@@ -5,5 +5,6 @@
 
 
 # Camp Wakonda
+Le 4 avril 2024 nous sommes allé voir l'oeuvre Camp Wakonda de l'artiste canadien Graeme Patterson
 
-
+![photo](media/baniere_art_contemporain.webp)
