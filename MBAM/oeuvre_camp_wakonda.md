@@ -18,5 +18,6 @@ L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur l
 ![photo](media/vue_cote_oeuvre.jpg)
 
 
-### 2- Dessus des lits
-![photo](media/vue_cote_oeuvre.jpg)
+### 2- Maison sur le dessus des lits
+![photo](media/maison_bois_droite.jpg)
+![photo](media/maison_bois_gauche.jpg)
