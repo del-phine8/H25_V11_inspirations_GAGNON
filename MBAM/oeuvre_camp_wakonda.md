@@ -9,7 +9,7 @@ Le vendredi 4 avril 2025 nous sommes allé voir l'oeuvre comtemplative "Camp Wak
 
 ![photo](media/cartel_camp_wakonda.jpg)
 
-
+# Description de l'oeuvre
 L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur le dessus de ces lit se trouve deux petites maison en bois, où l'on peut observé différents personnages animés à l'aide de projecteur et d'une toile blanche pour chancun d'eux. Sur la partie inférieure des lits se trouve deux télévision qui diffusent chacune des personnages différents: 
 <br>
 <br>
