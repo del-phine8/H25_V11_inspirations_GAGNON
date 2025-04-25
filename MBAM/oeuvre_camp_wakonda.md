@@ -11,13 +11,21 @@ Le vendredi 4 avril 2025 nous sommes allé voir l'oeuvre comtemplative "Camp Wak
 
 
 L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur le dessus de ces lit se trouve deux petites maison en bois, où l'on peut observé différents personnages animés à l'aide de projecteur et d'une toile blanche pour chancun d'eux. Sur la partie inférieure des lits se trouve deux télévision qui diffusent chacune des personnages différents: 
-
-
+<br>
+<br>
+<br>
 ### 1- Vue d'ensemble de l'oeuvre
 ![photo](media/vue_ensemble_oeuvre.jpg)
 ![photo](media/vue_cote_oeuvre.jpg)
-
-
+<br>
+<br>
+<br>
 ### 2- Maison sur le dessus des lits
+![photo](media/maison_bois_droite.jpg)
+![photo](media/maison_bois_gauche.jpg)
+<br>
+<br>
+<br>
+### 3- Personnage projeté sur des petites toiles blamches
 ![photo](media/maison_bois_droite.jpg)
 ![photo](media/maison_bois_gauche.jpg)
