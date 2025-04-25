@@ -2,7 +2,11 @@
 
 L'exposition d'art contemporain est une exposition permanente au musée des beaux arts de Montréal, qui se situe au Pavillon Jean-Noël Desmarais. 
 ![photo](media/baniere_art_contemporain.webp)
-
+<table align="center">
+  <tr>
+    <td><img src=></td>
+  </tr>
+</table>
 
 # Camp Wakonda
 Le vendredi 4 avril 2025 nous sommes allé voir l'oeuvre comtemplative "Camp Wakonda" crée en 2013 par l'artiste canadien Graeme Patterson.
@@ -17,14 +21,10 @@ L'oeuvre est composé de deux lit superposé mit l'un à coté de l'autre. Sur l
 ### 1- Vue d'ensemble de l'oeuvre
 <table align="center">
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/MBAM/media/vue_ensemble_oeuvre.jpg"></td>
     <td><img src="https://github.com/del-phine8/H25_V11_inspirations_GAGNON/blob/main/MBAM/media/vue_cote_oeuvre.jpg"></td>
   </tr>
 </table>
-![photo](media/vue_ensemble_oeuvre.jpg)
-
-
 <br>
 <br>
 <br>
