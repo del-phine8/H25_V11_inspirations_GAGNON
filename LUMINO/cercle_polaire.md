@@ -6,3 +6,14 @@ Lumino est une exposition temporaire qui se déroulait du 1er décembre 2024 au 
 
 Le 20 février 2025 je suis allée visité l'oeuvre Cercle polaire. Le concept de l'oeuvre est crée par M.A.D mais elle a été dessiné par Jason Carter.
 ![photo](media/cartel_oeuvre.jpg)
+<br>
+Le Cercle polaire est une oeuvre interractive
+<table align="center">
+<tr>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
+<td><img src=""></td>
+</tr>
+</table>
