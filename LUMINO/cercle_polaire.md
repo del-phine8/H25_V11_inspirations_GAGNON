@@ -1,1 +1,1 @@
-# Exposition: Cercle polaire
+# Exposition: LUMINO
