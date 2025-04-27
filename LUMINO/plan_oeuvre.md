@@ -13,6 +13,6 @@ Critique: Rien ne m'a plu particulièrement. Les couleurs et les sons étaient u
 <br>
 La seule chose que j'aimerais retenir est la manivelle. Je trouve intéressant que l'oeuvre prenne vie graduellement devant l'intéracteur puisqu'on doit la tourner.
 
-## conclusion
+## Conclusion
 rappel: résumé de l'expérience 
 élément inspirant: peut mélanger multimédia avec autres art, place tres variée, style tres libre, beaucoup combinaison possible, intérractif, immersive ou contemplative.
